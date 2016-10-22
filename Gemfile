@@ -7,6 +7,7 @@ gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
 gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote', '~> 1.2', '>= 1.2.6'
 
 # Use sqlite3 as the database for Active Record
 gem 'pg', '~> 0.18.4'
